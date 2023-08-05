@@ -6,110 +6,113 @@ repository: Git repository where your resume will be hosted, only required if yo
 version: 2
 
 # Personal info
-name: Your Name
-title: Your job title
-email: Your email (optional)
+name: Mohamad Shehab
+title: DevOps Architect
+email: mohamadkhodorshehab@gmail.com
 # email_title: Email (Email title override)
-phone: Your phone number (optional)
+phone: 00971502158862
 # phone_title: Phone (Phone title override)
-website: Your website (eg. https://google.com)(optional)
+website: mohamadshehab.net
 # website_title: Web (Website title override)
 
 # Dark Mode (true/false/never)
 darkmode: false
 
 # Social links
-twitter_username: jekyllrb
-github_username:  jekyll
-stackoverflow_username: "00000001"
-dribbble_username: jekyll
-facebook_username: jekyll
-flickr_username: jekyll
-instagram_username: jekyll
-linkedin_username: jekyll
-xing_username: jekyll
-pinterest_username: jekyll
-youtube_username: jekyll
-orcid_username: 0000-0000-0000-0000
-googlescholar_username: D847cGsAAAAJ
+twitter_username: mhmdksh
+github_username:  mhmdksh
+linkedin_username: mohammad-khodor-shehab
 
-# Additional icon links
 additional_links:
-- title: Link name
-  icon: Font Awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
-  url: Link url (eg. https://google.com)
-# - title: another link
-#   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
-#   url: Link url (eg. https://google.com)
-
-# Google Analytics and Tag Manager
-# Using more than one of these may cause issues with reporting
-# gtm: "GTM-0000000"
-# gtag: "UA-00000000-0"
-# google_analytics: "UA-00000000-0"
+- title: Book A Call
+  icon: fa-cal.com (https://github.com/calcom/cal.com/blob/main/apps/web/public/favicon-32x32.png)
+  url: https://cal.com/mohamadkhodorshehab
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_profile_image: Directory of profile image (eg. images/profile.jpg)
+about_profile_image: images/moe-thug.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
+  Hello, world! I'm Mohamad Shehab, a seasoned IT professional and a self-confessed automation addict. When I'm not busy managing the full spectrum of IT services and cloud solutions for multinational companies, you'll find me exploring the fascinating world of Web3.
 
-  You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
-    - Lists
-    - Tables
-    - <a href="google.com">Links</a>
-    - Images ![alt text](/images/landscape-trees.jpg "Trees")
+  My journey in IT has been an exciting ride, from working on mission-critical systems to creating reliable cloud solutions. I'm a firm believer in the power of continuous learning, constantly leveling up my technical skills and XP points in the game of life.
+
+  In the realm of DevOps, I'm a wizard, conjuring up solutions that enhance efficiency and reliability. My magic wand? My extensive IT administration and automation skills. But don't worry, I haven't forgotten the importance of soft skills in this digital age. I'm always working on those to ensure I'm not just a code-crunching machine, but also a human who values connections and teamwork.
+
+  Ready to embark on a quest in the world of IT services and cloud solutions? Let's connect!
 
 content:
-  - title: Projects # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: left
-        border: weak  # Value of `weak` will display a weak border below this item. # Any 
-                      # other value (or no value) means no border will be displayed
-        title: Project name
-        link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        link_text: Link Text
-        additional_links:
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-            icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-            icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        quote: >
-          Short overview of the project (optional)
-        description: | # this will include new lines to allow paragraphs
-          Description about the work on/with the project
   - title: Experience
     layout: list
     content:
-      - layout: right
-        title: Company name
-        sub_title: Job title
-        caption: Date Range (eg. November 2016 - present)
-        link: Link to company (optional)
-        quote: >
-          Short description of the company (optional)
+      - layout: left
+        title: General Magic
+        sub_title: Devops Specialist
+        caption: March 2022 - present
+        link: https://www.generalmagic.io
+        quote: |
+          Web3 professionals building social impact solutions throughout Web3 and Public Good space.
         description: | # this will include new lines to allow paragraphs
-          Description of role
+          - Developing and maintaining Impact DAO products, contributing to the creation of 1-click apps for communities.
+          - Advising on product-as-a-service strategies, leading to monetization of Impact DAO products.
+          - Implementing DevOps best practices to enhance scalability and security of various infrastructures.
+          - Automating operational tasks, including server provision, management, and database orchestration.
+          - Overseeing services for Giveth dApps, ensuring optimal performance and security.
+          - Architecting microservices and Kubernetes infrastructure, and presenting plans to the development team.
+          - Creating Infrastructure as Code (IaC) scripts for on-demand testing infrastructure.
+          - Migrating services to Kubernetes for improved scalability and zero-downtime deployments.
+          - Building CI/CD pipelines for automated testing, building, releasing, security scanning, and deployment of applications.
+          - Establishing IT/DevOps processes for maintenance, backup/recovery, and monitoring.
+
+  - title: Experience
+    layout: list
+    content:
+      - layout: left
+        title: IDEMIA
+        sub_title: IT Systems Analyst
+        caption: April 2018 - February 2022
+        link: https://www.idemia.com
+        quote: >
+          The leader in Identity Technologies, and Identity Management Systems
+        description: | # this will include new lines to allow paragraphs
+          - Participated in a DevOps team to integrate a scalable Kubernetes application, automating source code management, deployment, and monitoring for production environments.
+          - Developed automated alerting channels in the CI/CD pipeline, enhancing team proactivity in incident management.
+          - Analyzed system and application behavior to ensure alignment with business goals.
+          - Conducted acceptance testing with various APIs integrated into the system to ensure functionality.
+          - Provided feedback to development teams on application behavior, tracking issues, and requesting updates.
+          - Automated administration procedures, reducing system management times by 90% and eliminating human error.
+          - Collaborated with Networking, SRE, and Security teams to implement incident management procedures.
+          - Ensured 99% uptime as per SLAs by delegating preventive maintenance tasks to the support team on sites.
+
+  - title: Experience
+    layout: list
+    content:
+      - layout: left
+        title: Infosysta
+        sub_title: IT Administrator & Infrastructure Owner
+        caption: June 2016 - March 2018
+        link: https://www.infosysta.com
+        quote: >
+          A Turn-key Management Consultant & Atlassian Strategic Partner
+        description: | # this will include new lines to allow paragraphs
+          - Managed a Cloud Infrastructure of over 30 servers for a SaaS Legal solution (App4Legal) with around 30,000 subscribers.
+          - Developed an automated procedure integrated into the CI/CD pipeline, reducing application integration time from 3 days to 15 minutes and implementation cost by 90%.
+          - Created containerized images for the application, enhancing testing efficiency for both the development team and clients.
+          - Set up time-based monitoring and event-based alerting solutions, increasing visibility of application status and behavior.
+          - Planned and executed on-premises-to-cloud & cloud-to-cloud migration procedures, reducing running costs and improving application scalability.
+          - Automated cloud backup and restoration procedures using bash scripting and Ansible, aligning service with the company's RPO & RTO policy.
+          - Developed a plug-n-play solution for testing the application on both on-premises and cloud infrastructure, reducing the barrier to entry for application use.
+          - Mitigated cyber attacks and protected data, ensuring the security of our services.
+
   - title: Education
     layout: list
     content:
-      - layout: top-right
-        title: Institution name
-        sub_title: Qualifications (eg. BA Performing Arts)
-        caption: Date Range (eg. 2016 - 2019)
+      - layout: top-left
+        title: American University of Science & Technology
+        sub_title: Information & Communication Technology
+        caption: 2011 - 2016
         quote: >
-          Short institution or course description (optional)
+          The American University of Science and Technology is a private, non-sectarian, and co-educational American university in Lebanon.
         description: | # this will include new lines to allow paragraphs
-          Description of qualification
-  - title: A Little More About Me
-    layout: text
-    content: | # this will include new lines to allow paragraphs
-      This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
-
-      Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
 
 # Footer
 footer_show_references: true
