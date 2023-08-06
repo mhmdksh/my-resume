@@ -114,7 +114,7 @@ content:
           The American University of Science and Technology is a private, non-sectarian, and co-educational American university in Lebanon.
         description: | # this will include new lines to allow paragraphs
         
-  - title: Skills
+  - title: Technical Skills
     layout: list # Type of content section (list/text)
     content:
       - layout: left
@@ -123,12 +123,10 @@ content:
         title: Skills
         additional_links:
           - title:  Kubernetes
-            icon: fab fa-github (https://user-images.githubusercontent.com/25181517/182534006-037f08b5-8e7b-4e5f-96b6-5d2a5558fa85.png)
+            icon: kube (https://user-images.githubusercontent.com/25181517/182534006-037f08b5-8e7b-4e5f-96b6-5d2a5558fa85.png)
             url: https://www.credly.com/badges/85d7a85f-6d07-4a45-83e7-b8a7e160ff87/linked_i
-        quote: >
-          Short overview of the project (optional)
         description: | # this will include new lines to allow paragraphs
-          Description about the work on/with the project
+          I'm a Kubernetes Expert
 # Footer
 footer_show_references: true
 # references_title: References on request (Override references text)
