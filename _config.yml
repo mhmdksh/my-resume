@@ -25,7 +25,7 @@ linkedin_username: mohammad-khodor-shehab
 
 additional_links:
 - title: Book A Call
-  icon: fa-thin fa-calendar fa-fade
+  icon: fab fa-calendar
   url: https://cal.com/mohamadkhodorshehab
 
 # About Section
