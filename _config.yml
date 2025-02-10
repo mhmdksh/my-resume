@@ -25,7 +25,7 @@ linkedin_username: mohammad-khodor-shehab
 
 additional_links:
 - title: Book A Call
-  icon: fab fa-calendar
+  icon: fas fa-calendar-alt
   url: https://cal.com/mohamadkhodorshehab
 
 # About Section
@@ -44,6 +44,20 @@ content:
   - title: Experience
     layout: list
     content:
+      - layout: left
+        title: Rekt Studios
+        sub_title: Solution Architect (Part Time)
+        caption: April 2024 - Present
+        link: https://rektstudios.com
+        description: | # this will include new lines to allow paragraphs
+          - Planning and implementing the AWS Cloud Infrastructure for a Blockchain Game Backend, using different services like ECS, ECR, Cloudfront, Route53, Secrets Management, S3, RDS, SES
+          - Creating a High Available IaC Setup using Terraform, to implement all the infrastructure, that brought the implementation time from Days to Minutes
+          - Building the development and release process that contributed to having an efficient and automated SDLC
+          - Training the Dev Team on the release process and making their work structured and efficient and less prone to faults
+          - Automating the release process through CI-CD Pipelines using Github Actions
+          - Implementing a Secret and ENV Management Solution using Hashicorps Vault which reduced human error while handling Secrets by 90%
+          - Contributing to the Backend Development
+
       - layout: left
         title: General Magic
         sub_title: Devops Team Lead
@@ -113,12 +127,12 @@ content:
         quote: >
           The American University of Science and Technology is a private, non-sectarian, and co-educational American university in Lebanon.
         description: | # this will include new lines to allow paragraphs
-        
+
   - title: Technical Skills
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        border: weak  # Value of `weak` will display a weak border below this item. # Any 
+        border: weak  # Value of `weak` will display a weak border below this item. # Any
                       # other value (or no value) means no border will be displayed
         title: Skills
         additional_links:
