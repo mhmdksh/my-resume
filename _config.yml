@@ -55,7 +55,7 @@ content:
           - Building the development and release process that contributed to having an efficient and automated SDLC
           - Training the Dev Team on the release process and making their work structured and efficient and less prone to faults
           - Automating the release process through CI-CD Pipelines using Github Actions
-          - Implementing a Secret and ENV Management Solution using Hashicorps Vault which reduced human error while handling Secrets by 90%
+          - Implementing a Secret and ENV Management Solution using Hashicorps Vault which reduced human error while handling Secrets by 99%
           - Contributing to the Backend Development
 
       - layout: left
@@ -77,9 +77,6 @@ content:
           - Building CI/CD pipelines for automated testing, building, releasing, security scanning, and deployment of applications.
           - Establishing IT/DevOps processes for maintenance, backup/recovery, and monitoring.
 
-  - title: Experience
-    layout: list
-    content:
       - layout: left
         title: IDEMIA
         sub_title: IT Systems Analyst
@@ -97,9 +94,6 @@ content:
           - Collaborated with Networking, SRE, and Security teams to implement incident management procedures.
           - Ensured 99% uptime as per SLAs by delegating preventive maintenance tasks to the support team on sites.
 
-  - title: Experience
-    layout: list
-    content:
       - layout: left
         title: Infosysta
         sub_title: IT Administrator & Infrastructure Owner
