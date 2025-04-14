@@ -36,13 +36,13 @@ additional_links:
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/moe-thug.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hello, world! I'm Mohamad Shehab, a seasoned IT professional and a self-confessed automation addict. When I'm not busy managing the full spectrum of IT services and cloud solutions for multinational companies, you'll find me exploring the fascinating world of Web3.
+  Hello, world! I'm Mohamad Shehab, a seasoned IT professional, AI integration specialist, and a self-confessed automation addict. When I'm not busy managing the full spectrum of IT services and cloud solutions for multinational companies, you'll find me exploring the fascinating worlds of Web3 and Artificial Intelligence.
 
-  My journey in IT has been an exciting ride, from working on mission-critical systems to creating reliable cloud solutions. I'm a firm believer in the power of continuous learning, constantly leveling up my technical skills and XP points in the game of life.
+  My journey in IT has been an exciting ride, from working on mission-critical systems to creating reliable cloud solutions and building AI-powered tools that enhance developer workflows. I'm a firm believer in the power of continuous learning, constantly leveling up my technical skills—whether that's implementing LLMs or orchestrating cloud infrastructure—and gaining XP points in the game of life.
 
-  In the realm of DevOps, I'm a wizard, conjuring up solutions that enhance efficiency and reliability. My magic wand? My extensive IT administration and automation skills. But don't worry, I haven't forgotten the importance of soft skills in this digital age. I'm always working on those to ensure I'm not just a code-crunching machine, but also a human who values connections and teamwork.
+  In the realm of DevOps, I'm a wizard, conjuring up solutions that enhance efficiency and reliability. My magic wands? My extensive IT administration, AI integration, and automation skills. But don't worry, I haven't forgotten the importance of soft skills in this digital age. I'm always working on those to ensure I'm not just a code-crunching machine, but also a human who values connections and teamwork.
 
-  Ready to embark on a quest in the world of IT services and cloud solutions? Let's connect!
+  Ready to embark on a quest in the world of IT services, AI solutions, and cloud infrastructure? Let's connect!
 
 content:
   - title: Experience
@@ -54,7 +54,7 @@ content:
         caption: April 2024 - Present
         link: https://rektstudios.com
         description: | # this will include new lines to allow paragraphs
-          - Planning and implementing the AWS Cloud Infrastructure for a Blockchain Game Backend, using different services like ECS, ECR, Cloudfront, Route53, Secrets Management, S3, RDS, SES
+          - Planning and implementing the AWS Cloud Infrastructure for a Blockchain Game Backend, using different services like ECS, ECR, Cloudfront, Route53, Secrets Manager, S3, RDS, SES
           - Creating a High Available IaC Setup using Terraform, to implement all the infrastructure, that brought the implementation time from Days to Minutes
           - Building the development and release process that contributed to having an efficient and automated SDLC
           - Training the Dev Team on the release process and making their work structured and efficient and less prone to faults
@@ -70,6 +70,8 @@ content:
         quote: |
           Web3 professionals building social impact solutions throughout Web3 and Public Good space.
         description: | # this will include new lines to allow paragraphs
+          - Developed an AI-powered Discord Bot using Python (LangChain) and OpenAI API that scans GitHub repositories, prioritizes issues, and updates Notion documentation automatically—enhancing developer workflow and team communication
+          - Built a Web3 grant recommendation AI Agent (JavaScript, Twitter/Telegram APIs, ElizaOS) that identifies tailored funding opportunities, optimizing the grant application process
           - Developing and maintaining Impact DAO products, contributing to the creation of 1-click apps for communities.
           - Advising on product-as-a-service strategies, leading to monetization of Impact DAO products.
           - Implementing DevOps best practices to enhance scalability and security of various infrastructures.
