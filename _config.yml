@@ -140,18 +140,20 @@ content:
             icon: kube (https://user-images.githubusercontent.com/25181517/182534006-037f08b5-8e7b-4e5f-96b6-5d2a5558fa85.png)
             url: https://www.credly.com/badges/85d7a85f-6d07-4a45-83e7-b8a7e160ff87/linked_i
         description: | # this will include new lines to allow paragraphs
+          - <mark>AI Tools</mark>: LangChain, Eliza Framework ‘AI Agents’, Local LLMs
+          - <mark>Programming/Scripting</mark>: JavaScript, Python, JAVA, BASH, BATCH, SQL, YAML
+          - <mark>Container Management & Orchestration</mark>: Docker, Docker-Compose, Kubernetes, Helm, Nomad
+          - <mark>CI/CD Piplines</mark>: GitHub Actions, TravisCI
+          - <mark>Infrastructure as Code IaC & Configuration Management</mark>: Terraform, Ansible
+          - <mark>Cloud</mark>: AWS, GCP, Azure, Digital Ocean, Linode, Vultr, Hetzner
+          - <mark>Monitoring, Logging Tracing, Alerting</mark>: Grafana, Prometheus, Loki, Promtail, ELK Stack, Opentelemetry, Tempo
+          - <mark>Web/DB Stacks</mark>: MySQL, Apache, Nginx, PHP, NodeJS, Tomcat, Caddy
+          - <mark>Databases & OS</mark>: MySQL, Oracle, PostgreSQL, MongoDB, Windows, UNIX
+          - <mark>IT Infrastructure Management</mark>: On-Premises & Cloud
+          - <mark>Secret Management</mark>: Hashicorp Vault, AWS Secret Manager
           - <mark>WEB3 Tools</mark>: IPFS, Blockchain APIs (ETH, ETHL2), Vaults
           - <mark>DAO Tools</mark>: On-Chain Proposals, DAO Voting, Infrastructure Governance, Multisigs Wallet Governance (Gnosis Safe), DAO Management EVM Scripting, Tokenomics
-          - <mark>Container Management & Orchestration</mark>: Kubernetes, Helm, Docker, DockerFiles, Docker- Compose
-          - <mark>CI/CD Piplines</mark>: GitHub Actions, TravisCI
-          - <mark>Programming/Scripting</mark>: Python, JAVA, BASH, BATCH, SQL, YAML
-          - <mark>IaC & Configuration Management</mark>: Terraform, Ansible
-          - <mark>Cloud</mark>: AWS, Azure, Digital Ocean, Linode
-          - <mark>App/Infra Monitoring & Alerting</mark>: Grafana, Prometheus, Elastic Stack, Loki
-          - <mark>Web Stacks</mark>: Apache, Nginx, PHP, NodeJS, Tomcat, Caddy
-          - <mark>Databases</mark>: MySQL, Oracle, PostgreSQL, MongoDB
-          - <mark>Operating Systems</mark>: Windows, MACOS, Debian, Ubuntu, Centos
-          - <mark>IT Infrastructure Management</mark>: On-Premises & Cloud
+
 # Footer
 footer_show_references: true
 # references_title: References on request (Override references text)
