@@ -28,6 +28,10 @@ additional_links:
   icon: fas fa-calendar-alt
   url: https://cal.com/mohamadkhodorshehab
 
+- title: Download Resume
+  icon: fas fa-download
+  url: https://drive.google.com/file/d/1ywjeQVoJ3WqWy_IoaRMR3hcg38mb_7zE/view?usp=drive_link
+
 # About Section
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/moe-thug.jpg
