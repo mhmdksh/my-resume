@@ -24,6 +24,10 @@ github_username:  mhmdksh
 linkedin_username: mohammad-khodor-shehab
 
 additional_links:
+- title: Telegram
+  icon: fa fa-telegram
+  url: https://t.me/mhmdksh_93
+
 - title: Book A Call
   icon: fas fa-calendar-alt
   url: https://cal.com/mohamadkhodorshehab
@@ -32,23 +36,19 @@ additional_links:
   icon: fas fa-download
   url: https://drive.google.com/file/d/1ywjeQVoJ3WqWy_IoaRMR3hcg38mb_7zE/view?usp=drive_link
 
-- title: Telegram
-  icon: fas fa-telegram
-  url: https://t.me/mhmdksh_93
-
 # About Section
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/moe-thug.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hello World!! I'm Mohamad Shehab, a seasoned IT professional, AI integration specialist, and a self-confessed automation addict. When I'm not busy managing the full spectrum of IT services and cloud solutions for multinational companies, you'll find me exploring the fascinating worlds of Web3 and Artificial Intelligence.
+  I am Mohamad Shehab, an experienced IT professional specializing in DevOps, cloud architecture, and AI integration. With a proven track record of managing comprehensive IT services and cloud solutions for multinational organizations, I bring deep expertise in building scalable, reliable infrastructure and implementing cutting-edge AI solutions.
 
-  My journey in IT has been an exciting ride, from working on mission-critical systems to creating reliable cloud solutions and building AI-powered tools that enhance developer workflows. I'm a firm believer in the power of continuous learning, constantly leveling up my technical skills—whether that's implementing LLMs or orchestrating cloud infrastructure—and gaining XP points in the game of life.
+  Throughout my career, I have successfully delivered mission-critical systems, architected robust cloud infrastructures, and developed AI-powered tools that significantly enhance developer productivity and operational efficiency. My technical expertise spans from implementing Large Language Models (LLMs) and orchestrating complex cloud environments to creating automated workflows that transform business operations.
 
-  In the realm of DevOps, I'm a wizard, conjuring up solutions that enhance efficiency and reliability. My magic wands? My extensive IT administration, AI integration, and automation skills. But don't worry, I haven't forgotten the importance of soft skills in this digital age. I'm always working on those to ensure I'm not just a code-crunching machine, but also a human who values connections and teamwork.
+  As a DevOps practitioner, I excel at designing and implementing solutions that optimize performance, reliability, and scalability. My core competencies include infrastructure automation, CI/CD pipeline development, container orchestration, and cloud-native architecture. I am passionate about leveraging emerging technologies, particularly in the Web3 and AI domains, to drive innovation and create tangible business value.
 
-  Ready to embark on a quest in the world of IT services, AI solutions, and cloud infrastructure? Let's connect!
+  I am committed to continuous professional development and maintaining expertise at the forefront of technology trends. My approach combines strong technical capabilities with effective communication and collaborative leadership, ensuring successful project delivery and team alignment.
 
-  Download the PDF Version here.
+  I welcome opportunities to discuss how my expertise in IT services, AI solutions, and cloud infrastructure can contribute to your organization's success.
 
 content:
   - title: Experience
