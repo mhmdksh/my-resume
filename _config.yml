@@ -32,6 +32,10 @@ additional_links:
   icon: fas fa-download
   url: https://drive.google.com/file/d/1ywjeQVoJ3WqWy_IoaRMR3hcg38mb_7zE/view?usp=drive_link
 
+- title: Telegram
+  icon: fas fa-telegram
+  url: https://t.me/mhmdksh_93
+
 # About Section
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/moe-thug.jpg
