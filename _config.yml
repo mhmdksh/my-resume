@@ -58,15 +58,17 @@ content:
         title: Rekt Studios
         sub_title: Solution Architect (Part Time)
         caption: April 2024 - Present
-        link: https://rektstudios.com
+        link: https://rektgames.io
         description: | # this will include new lines to allow paragraphs
-          - Planning and implementing the AWS Cloud Infrastructure for a Blockchain Game Backend, using different services like ECS, ECR, Cloudfront, Route53, Secrets Manager, S3, RDS, SES
-          - Creating a High Available IaC Setup using Terraform, to implement all the infrastructure, that brought the implementation time from Days to Minutes
-          - Building the development and release process that contributed to having an efficient and automated SDLC
-          - Training the Dev Team on the release process and making their work structured and efficient and less prone to faults
-          - Automating the release process through CI-CD Pipelines using Github Actions
-          - Implementing a Secret and ENV Management Solution using Hashicorps Vault which reduced human error while handling Secrets by 99%
-          - Contributing to the Backend Development
+          - Created the full release process of a Blockchain Gaming ecosystem on AWS, making the team release multiple versions of 3 Online PvP Games and helped bring the product online after a very long time in development.
+          - Build the full monitoring stack for the gaming ecosystem, which was built on Grafana, Prometheus, Loki & Fluentbit. This enabled real-time monitoring of the gaming ecosystem.
+          - Plan and implement the AWS Cloud Infrastructure for a Blockchain Game Ecosystem Backend, using different services like ECS, ECR, Cloudfront, Route53, Secret Manager, S3, RDS, SES
+          - Create a Highly Available Infrastructure as Code (IaC) Setup using Terraform, to implement all the infrastructure, which made the infra management very fast and versatile. And the time of creating resources went down from Hours to Seconds.
+          - Build the develop and release process that contributed to having an efficient and automated SDLC
+          - Train Dev Teams on the release process and making their work structured and efficient and less prone to faults
+          - Automate the release process through CI-CD Pipelines using Github Actions which enabled Dev Teams to have multiple releases per day.
+          - Implement a Secret and ENV Management Solution using Hashicorps Vault which reduced human error while handling Secrets by 90%, which in turn contributed to a robust system that is ready for production
+          - Contribute to the Backend Development
 
       - layout: left
         title: General Magic
@@ -152,7 +154,7 @@ content:
           - <mark>CI/CD Piplines</mark>: GitHub Actions, TravisCI
           - <mark>Infrastructure as Code IaC & Configuration Management</mark>: Terraform, Ansible
           - <mark>Cloud</mark>: AWS, GCP, Azure, Digital Ocean, Linode, Vultr, Hetzner
-          - <mark>Monitoring, Logging Tracing, Alerting</mark>: Grafana, Prometheus, Loki, Promtail, ELK Stack, Opentelemetry, Tempo
+          - <mark>Monitoring, Logging Tracing, Alerting</mark>: Grafana, Prometheus, Loki, Promtail, Fluentbit, ELK Stack, Opentelemetry, Tempo
           - <mark>Web/DB Stacks</mark>: MySQL, Apache, Nginx, PHP, NodeJS, Tomcat, Caddy
           - <mark>Databases & OS</mark>: MySQL, Oracle, PostgreSQL, MongoDB, Windows, UNIX
           - <mark>IT Infrastructure Management</mark>: On-Premises & Cloud
